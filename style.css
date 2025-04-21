@@ -99,7 +99,7 @@
     --accent-color: rgb(179 181 191);
     --highlight-color: #f3c;
   
-    --titles-font: "Oxygen", sans-serif;
+    --titles-font: "roca", sans-serif;
     --bodytext-font: "Source Sans 3", sans-serif;
 
 
@@ -152,8 +152,8 @@
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    margin-bottom: 2rem;
-    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
   }
   
   
@@ -172,6 +172,12 @@ header .branding {
 	justify-content: space-between;
   max-width: 16.25rem;
 }
+
+.flex-container {
+  display: flex;
+  width: 100%;
+  padding-left: 5%; /* ADJUST TO TASTE */
+  padding-right: 5%; /* ADJUST TO TASTE */}
   
   img.custom-logo {
     width: 3rem;
