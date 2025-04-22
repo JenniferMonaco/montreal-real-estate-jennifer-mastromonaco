@@ -93,14 +93,14 @@
     --border-color-light: #ff0000;
     --border-color-dark: #444;
   
-    --titles-color: #1B0404;
+    --titles-color: #586262;
     --bodytext-color: #444444;
   
     --accent-color: rgb(179 181 191);
     --highlight-color: #f3c;
   
     --titles-font: "roca", sans-serif;
-    --bodytext-font: "Source Sans 3", sans-serif;
+    --bodytext-font: "montserrat", sans-serif;
 
 
    --footerNav-bg-color: rgb(255, 255, 255);
